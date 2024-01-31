@@ -5,7 +5,7 @@ Welcome to my GitHub profile 🙏🏼
 ---
 ## About Me:
 <p align="left">
-  <img src="https://github.com/brian-kipkoech-tanui/brian-kipkoech-tanui/blob/master/Images/avatar.jpg" width="200" height="200">
+  <img src="./Images/avatar.jpg" width="200" height="200">
 </p>
 
 ### Machine Learning Engineer | Data Scientist
@@ -19,13 +19,13 @@ I am a passionate data scientist and machine learning expert who is inspired by 
 <br><br>
 In addition to my expertise in machine learning and data science, I have also worked with DevOps and AWS (Amazon Web Services). I have worked on using AWS's services like SageMaker, EC2, RDS, S3, Step Functions, and Lambda to implement machine learning models and create scalable and reliable systems. I recognize the value of having a strong DevOps culture in machine learning and data science, and I work hard to incorporate best practices into my workflows to guarantee efficient and effective machine learning model development, testing, and deployment.
 <br><br>
-I am dedicated to making an impact, with a focus on data science and machine learning. My portfolio, featuring my work and contributions, can be viewed on GitHub *(here, under [repositories](https://github.com/brian-kipkoech-tanui?tab=repositories))*. I am appreciative of chances to advance professionally, demonstrate my knowledge, and demonstrate my dedication to leaving a lasting impression. If you share my vision and wish to collaborate, feel free to reach out at 📫 briankipkoechtanui@gmail.com
+I am dedicated to making an impact, with a focus on data science and machine learning. My portfolio, featuring my work and contributions, can be viewed on GitHub *(here, under [repositories](https://github.com/brian-kigen?tab=repositories))*. I am appreciative of chances to advance professionally, demonstrate my knowledge, and demonstrate my dedication to leaving a lasting impression. If you share my vision and wish to collaborate, feel free to reach out at 📫 briokigen@gmail.com
 
 
 #### Professional Links:
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077b5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/briankipkoech/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/brian-kipkoech-tanui)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077b5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/briankkipkoech/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/brian-kigen)
 
 
 ---
@@ -55,13 +55,13 @@ I am dedicated to making an impact, with a focus on data science and machine lea
     <img src="./Images/Icons/240px-SCIPY_2.svg.png" height="30">
     <img src="./Images/Icons/postgreSQL.png" height="30">
     <img src="./Images/Icons/MySQL_textlogo.svg.png" height="30">
-    <img src="./Images/Icons/AWS-Certified-Solutions-Architect.png" height="30">
+    <!-- <img src="./Images/Icons/AWS-Certified-Solutions-Architect.png" height="30"> -->
     <img src="./Images/Icons/Tableau_Software_Logo_Small.png" height="30">
     <img src="./Images/Icons/Matplotlib_logo.svg" height="30">
     <img src="./Images/Icons/seaborn_logo.svg" height="30">
     <img src="./Images/Icons/Tensorflow_logo.png" height="30">
     <img src="./Images/Icons/keras-logo-2018-large-1200.png" height="30">
-    <img src="./Images/Icons/AWS-Certified-Cloud-Practitioner.png" height="30">
+    <!-- <img src="./Images/Icons/AWS-Certified-Cloud-Practitioner.png" height="30"> -->
     <img src="./Images/Icons/SageMaker-300x150.jpg" height="30">
     <img src="./Images/Icons/320px-Amazon_Web_Services_Logo.svg.png" height="30">
     <img src="./Images/Icons/Git-Logo-2Color.png" height="30">
@@ -181,7 +181,7 @@ I am dedicated to making an impact, with a focus on data science and machine lea
 <!-- ---
 ![Brian Kipkoech's GitHub stats](https://github-readme-stats.vercel.app/api?username=brian-kipkoech-tanui&show_icons=true&theme=midnight-purple)
 <br>
-<!-- ![Snake animation](https://github.com/brian-kipkoech-tanui/brian-kipkoech-tanui/blob/output/github-contribution-grid-snake.svg) -->
+<!-- ![Snake animation](https://github.com/brian-kigen/brian-kigen/blob/output/github-contribution-grid-snake.svg) -->
 <br><br>
 Thank you for taking the time to visit my GitHub profile! 🙏🏼
 
