@@ -56,7 +56,6 @@ I am dedicated to making an impact, with a focus on data science and machine lea
     <img src="./Images/Icons/postgreSQL.png" height="30">
     <img src="./Images/Icons/MySQL_textlogo.svg.png" height="30">
     <!-- <img src="./Images/Icons/AWS-Certified-Solutions-Architect.png" height="30"> -->
-    <img src="./Images/Icons/Tableau_Software_Logo_Small.png" height="30">
     <img src="./Images/Icons/Matplotlib_logo.svg" height="30">
     <img src="./Images/Icons/seaborn_logo.svg" height="30">
     <img src="./Images/Icons/Tensorflow_logo.png" height="30">
@@ -92,6 +91,7 @@ I am dedicated to making an impact, with a focus on data science and machine lea
 
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-15.1-336791.svg)](https://www.postgresql.org/docs/15/index.html)
 [![MySQL](https://img.shields.io/badge/MySQL-8.0.24-4479A1.svg)](https://dev.mysql.com/doc/refman/8.0/en/)
+[![Oracle DataBase](https://img.shields.io/badge/oracle%20database-8.0.24-4479A1.svg)](https://docs.oracle.com/en/database/oracle/oracle-database/index.html)
 ---
 ### 📷 Image Processing
 
